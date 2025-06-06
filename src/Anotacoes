@@ -1,0 +1,10 @@
+Questão 10 – Cadastro de Veículos com Herança
+
+Você está desenvolvendo um sistema de cadastro para uma empresa de transporte. Todos os veículos possuem placa, marca e ano.
+Crie uma superclasse Veiculo com esses atributos e subclasses para:
+· Carro (adicional: número de portas)
+· Moto (adicional: cilindradas)
+
+Implemente:
+· Um método exibirDetalhes() sobrescrito em cada subclasse para mostrar as informações específicas do veículo.
+· Armazene os veículos em um ArrayList<Veiculo> e implemente um método para exibir os detalhes de todos.
